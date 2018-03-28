@@ -3763,6 +3763,8 @@ ddl-search.biz##.wpbanner_superlenny
 ||avitya.ru^$domain=pronpic.org
 ! rapidgator.net
 ||kovla.com/?$popup,domain=rapidgator.net
+! gamersclub.com.br
+||gamersclub.com.br/adblock
 ! antipubfirefox.org
 splash.antipubfirefox.org##DIV[align="center"]
 ! ojogo.pt
